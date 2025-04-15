@@ -1,4 +1,4 @@
-# 💫 About Me:
+# <div align="center"> 💫 About Me:  </div>  
 👋 Hi, I'm Ketul Patel!<br><br>🚀 Full-Stack AI/ML Engineer by day, Cloud Magician by night! 🧙‍♂️ I turn coffee ☕ and code into AI systems that think (almost) like humans. From building deep learning models to casting them in the cloud (yes, on AWS), I’ve got you covered! 🌩️<br><br>
 🔭 Currently working on: Image regeneration and 3D visualization of Ultrasounds (WASL Matlab)<br><br>
 👯 Looking to collaborate on: GEN-AI projects, especially RAG models<br><br>
